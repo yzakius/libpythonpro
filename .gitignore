@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Pycharm files
+.idea/
+.classpath
+.project
+.settings/
+*.sqlite3
+bin/
