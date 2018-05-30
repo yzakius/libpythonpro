@@ -4,7 +4,7 @@ Exercício para criação de Projetos - Módulo Pytools do Python Pro
 
 [![Build Status](https://travis-ci.org/yzakius/libpythonpro.svg?branch=master)](https://travis-ci.org/yzakius/libpythonpro)
 
-## Apredendo Sobre
+## Aprendendo Sobre
 
 * Git;
 * Isolamento de Ambiente Python;
