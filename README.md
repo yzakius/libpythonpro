@@ -12,3 +12,4 @@ Exercício para criação de Projetos - Módulo Pytools do Python Pro
 * Isolamento de Ambiente Python;
 * Flake8;
 * Integração Contínua com Travis CI;
+* Framework Pytest

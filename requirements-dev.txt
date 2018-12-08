@@ -5,11 +5,11 @@ pyflakes==2.0.0
 
 # Dependências do Pytest
 pytest==4.0.1
-more-itertools==4.0.0
-six==1.10.0
-atomicwrites==1.0
-py==1.5.0
-pluggy==0.7
-attrs==17.4.0
+more-itertools==4.3.0
+six==1.11.0
+atomicwrites==1.2.1
+py==1.7.0
+pluggy==0.8
+attrs==18.2.0
 
 -r requirements.txt
