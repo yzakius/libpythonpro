@@ -4,7 +4,7 @@ pycodestyle==2.4.0
 pyflakes==2.0.0
 
 # Dependências do Pytest
-pytest==4.0.1
+pytest==4.0.2
 more-itertools==4.3.0
 six==1.11.0
 atomicwrites==1.2.1
